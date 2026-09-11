@@ -1,0 +1,32 @@
+﻿commit 1efb5fe52b719dd4d1aee874eeb22090b8836084
+Author: Arnceb <arceballos99@gmail.com>
+Date:   Thu Sep 10 22:58:30 2026 -0700
+
+    added favorite food
+
+commit 8d883db0c341894ac80b2826614a1700ed728060
+Author: Arnceb <arceballos99@gmail.com>
+Date:   Thu Sep 10 22:53:12 2026 -0700
+
+    added readme
+
+commit 3313f44020d1d3122c130565f72efc8233e38cf5
+Merge: 1d2bfc0 5115993
+Author: Arnceb <arceballos99@gmail.com>
+Date:   Thu Sep 10 22:52:49 2026 -0700
+
+    Merge pull request #1 from Arnceb/info-fill
+    
+    filled in name and hobby
+
+commit 5115993dd7d59156ab395653273fbb2ba8c1c0e9
+Author: Arnceb <arceballos99@gmail.com>
+Date:   Thu Sep 10 22:23:26 2026 -0700
+
+    filled in name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
